@@ -15,5 +15,5 @@ Her hypothesis was that integrating heterogeneous and complex characteristics of
 
 The proposed predictive model was validated using 63 cases, including 30 patients who suffered a hip fracture after taking the scan. [1]
 
-[1] Rodríguez Martín, Raquel. Predictive modelling of femur fracture from DXA scans using radiomics and machine learning. 2018
+[1] Rodríguez Martín, R. (2018). Predictive modelling of femur fracture from dxa scans using radiomics and machine learning.
 http://hdl.handle.net/10230/44675
